@@ -42,7 +42,7 @@ class Homepage extends Component {
       selectedPerfumes.push(
         <div className="col-3 d-flex justify-content-center" key={perfumeName}>
           <div
-            className="border px-4 py-5 rounded d-flex justify-content-center align-items-center"
+            className="border border-info px-4 py-5 rounded d-flex justify-content-center align-items-center"
             style={{ width: "100%", height: 251 }}
           >{`Perfume ${perfumeName}`}</div>
         </div>
@@ -58,7 +58,7 @@ class Homepage extends Component {
         <div className="my-5" />
         <div className="h3 mt-4 mb-3 text-dark">Suggested Search Tags</div>
         <div>
-          {["Chanel", "YSL"].map((name, i) => (
+          {["Chanel", "Chloe", "Dior", "D&G", "MarcJacobs", "Guerlain", "Lancome", "Hermes", "Givenchy"].map((name, i) => (
             <button
               key={name}
               className={

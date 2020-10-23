@@ -16,7 +16,7 @@ class SearchPage extends Component {
               className="col-4 py-4 d-flex justify-content-center"
               key={perfume.name}
             >
-              <div className="border border-info px-5 rounded bg-white on-hover shadow">
+              <div className="border border-info px-5 rounded bg-white shadow">
                 <img
                   src={perfume.imgURL}
                   alt={perfume.name}
