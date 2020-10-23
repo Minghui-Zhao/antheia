@@ -1,0 +1,81 @@
+
+[
+  {
+    "brand": {
+      "brandName": "Lancome",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749126/Antheia/brands/lancome-3_wy8try.svg"
+    },
+    "name": "La Vie Est Belle",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601783496/Antheia/perfumes/lancome/375x500.14982_iky8lb.jpg",
+    "product": {
+      "price": "99/1.7 Fl Oz",
+      "accords": "sweet, vanilla, balsamic, woody, fruity, powdery",
+      "composition": "The final formula is the result achieved after three years of probation and 5000 versions. Iris is the key ingredient of the perfume, surrounded by orange blossoms and jasmine in the heart. The composition’s opening provides fruity flavors of black currant and pear, while the base is warm, gourmand and powdery due to almond-like accords of tonka bean, praline, patchouli and vanilla. "     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2012,
+      "designer": "Olivier Polge, Dominique Ropion, Anne Flipo",
+      "inspiration": "The concept of this fragrance is centered on the idea of natural and simple beauty, freedom from conventions and the choice of once own vision of happiness. The fragrance is a kind of outlook on life, inspired by joy and pleasure in small things. "
+    },
+    "review": {
+      "rating": "3.39/5.0",
+      "comments": [
+        "La Vie Est Belle is probably one of the most feminine high end label scents i can think of. i’m talking full femininity here. this fragrance to me smells kinda like sweets, the vanilla is very prominent. i probably enjoy this one because vanilla is one of my favourite scents in a perfume. this is also a pretty heavy scent so be cautious of this if strong perfumes make you nauseous. lasting power is promising, i get majority of the day wear from it. packaging is gorg too.",
+        "I like it. It's modern. flowery. Well more panna cotta and blackcurrant than flowery. But it does have a nice Iris there too. I think it's sweet. You can nearly eat the caramel in it. I like it. But on the main it is another version of the commercial sweet fragrances we're seeing nowadays. Which is fine because it is modern and beautiful. Good silage."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lancome",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749126/Antheia/brands/lancome-3_wy8try.svg"
+    },
+    "name": "Hypnôse",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601828749/Antheia/perfumes/lancome/375x500.170_bgnqdr.jpg",
+    "product": {
+      "price": "76/1.7 Fl Oz",
+      "accords": "vanilla, floral, white floral, fruity, sweet",
+      "composition": "Top Note: Passion Flower; Heart Note: Vanilla; Base Note: Vetiver."   
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2005,
+      "designer": "Annick Menardo, Thierry Wasser",
+      "inspiration": "Sensual. Seductive. Captivating. Hypnôse will draw you into a world of seduction with its captivating notes. It’s a helix of sensuality whose notes are intimately blended. Passion Flower embodies sublime femininity and makes an extraordinary radiant, bright, and youthful impression."
+    },
+    "review": {
+      "rating": "3.69/5.0",
+      "comments": [
+        "Hypnose is to me a cool and peaceful vanilla. That together with the fruity passion flower makes it creamy, feminine and bewitching while still letting me rest and keep my sanity. It's sweet, but not too sweet. Simple and yet somehow unique. This is a scent that I recognize when someone wearing it passes me by. I thought I was bored with Hypnose, but after using it again for the first time in about a year I feel like I want to wear it more often.",
+        "Passionflower and vanilla are a combination made in heaven! This perfume is linear and that's a good thing to me, because you get all time long what you first smell. The longevity and projection are heavy. Definitely an old time classic, suitable for every season as the vanilla is not warm or cloying. I like it very very much! Congratulations Lancome!"
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Lancome",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749126/Antheia/brands/lancome-3_wy8try.svg"
+    },
+    "name": "La Nuit Trésor à la Folie",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601826433/Antheia/perfumes/lancome/375x500.48019_x97rkp.jpg",
+    "product": {
+      "price": "94/1.7 Fl Oz",
+      "accords": "balsamic, vanilla, sweet, floral, fruity",
+      "composition": "Pursuing the Tresor olfactive love story, a new fiery Rose joins the Trésor roseraie, revealing an opulent heart with an unexpected creamy vanilla inflection. The woody notes of the pachouli are enhanced by a musky vanilla, revealing the sensual and addictive signature of the fragrance. La Nuit Trésor À La Folie perfume is made with dazzling raw materials: a burning heart of Rose Essence, inflamed by the sensuous addiction of Bourbon Vanilla and intensified by smouldering Patchouli Essence."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2018,
+      "designer": "Christophe Raynuad, Amandine Marie, Honorine Blanc",
+      "inspiration": "La Nuit Trésor À La Folie perfume for women embodies the one and only moment when true love is at its climax. A unique moment of “lâcher prise”, meaning, when time is suspended. Lovers are transcended beyond themselves and experience the thrill of love: an indescribable feeling that makes you forget everything and lose control."
+    },
+    "review": {
+      "rating": "4.35/5.0",
+      "comments": [
+        "This is a smoky vanilla on my skin. It reminds me of sitting by the fire while wearing a sexy vanilla perfume. It is seductive in an underhanded kind of way. He will smell something delicious and will want to snuggle up to you unconsciously. Perfect for anytime and any season.",
+        "Probably not unique, but done to perfection. It is a very sexy gourmand that screams confidence and class. In my head, I associate it with smart black attire. Somehow, it also makes me think of a glass of red wine. I love it."
+      ]
+    }
+  }
+]

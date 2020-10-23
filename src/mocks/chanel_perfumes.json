@@ -1,0 +1,80 @@
+[
+  {
+    "brand": {
+      "brandName": "Chanel",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601771191/Antheia/brands/chanel-1_uyyv35.svg"
+    },
+    "name": "Chanel No 5",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601751676/Antheia/perfumes/chanel/375x500.28711_ugz3ji.jpg",
+    "product": {
+      "price": "105/1.7 Fl Oz",
+      "accords": "woody, powdery, floral, aldehydic, earthy",
+      "composition": "The top notes are composed of aldehydes, bergamot, lemon, neroli and ylang-ylang, the heart of jasmine, rose, lily of the valley and iris, while the base is created of vetiver, sandalwood, vanilla, amber and patchouli."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 1921,
+      "designer": "Ernest Beaux",
+      "inspiration": "The legendary Chanel No 5, which was created for Coco Chanel, was originally launched in three concentrations: Parfum, Eau de Toilette and Eau de Cologne."
+    },
+    "review": {
+      "rating": "3.3/5.0",
+      "comments": [
+        "Many people tell me I smell older than I am (<20) but I think it's a lack of appreciation for such a deep scent in comparison from the sickly sweetness you would expect from someone in their teenage years.",
+        "This has a sort of mysterious, dark quality about it. It could easily be worn day and night but even though it's a classic, I feel like this is not for everyone, it has to really 'fit you'."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Chanel",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601771191/Antheia/brands/chanel-1_uyyv35.svg"
+    },
+    "name": "Coco Mademoiselle Chanel",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601752567/Antheia/perfumes/chanel/375x500.611_z1w4tb.jpg",
+    "product": {
+      "price": "115/1.7 Fl Oz",
+      "accords": "citrus, woody, patchouli, sweet, white floral, balsamic",
+      "composition": "Top notes are orange, mandarin orange, orange blossom and bergamot; middle notes are mimosa, jasmine, turkish rose and ylang-ylang; base notes are tonka bean, patchouli, opoponax, vanilla, vetiver and white musk."      
+    },
+    "story": {
+      "origin": "France",
+      "year": 2001,
+      "designer": "Jacques Polge",
+      "inspiration": "Coco Mademoiselle Chanel is a Oriental Floral fragrance for women. "
+    },
+    "review": {
+      "rating": "4.08/5.0",
+      "comments": [
+        "Will forever be one of my most treasured, favorite fragrances. Yes, it's completely recognizable and mainstream, however I have some of my best memories wearing Coco Mademoiselle as well as I've probably gotten the most compliments out of any perfume when I wear her.",
+        "You're camping on a cliffside, waking for the morning sunrise, and after leaving your tent, you scoot up to warm yourself by the embers of last night's fire. Your girlfriend comes out and then pours some orange juice for the two of you to share."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Chanel",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601771191/Antheia/brands/chanel-1_uyyv35.svg"
+    },
+    "name": "Chance Eau Tendre",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601776779/Antheia/perfumes/chanel/375x500.8069_lg9zhc.jpg",
+    "product": {
+      "price": "105/1.7 Fl Oz",
+      "accords": "floral, rose, citrus, fruity, musky",
+      "composition": "Its top notes consist of ambrette, citron, jasmine absolute; the heart notes are iris absolute, hyacinth. White musk, amber patchouli, fresh vetiver and vanilla belong to the base notes. "
+    },
+    "story": {
+      "origin": "France",
+      "year": 2010,
+      "designer": "Jacques Polge",
+      "inspiration": "It comes and goes, it never stays put… and you only have a few seconds to seize your chance. It is unpredictable and appears when you least expect it, but if you decide to seize it, anything is possible."
+    },
+    "review": {
+      "rating": "4.28/5.0",
+      "comments": [
+        "Chanel CHANCE Eau Tendre is a beautiful, soft, ethereal, sheer, powdery, sweet, pink, light perfume. The fragrance to me smells like a delicate Turkish delight candy - infused with a hint of rose water flavour and dusted with a fine sugary sweet powder.",
+        "This is probably one of my all time favorites. It’s a safe frangrance to wear for everyday that isn’t too strong. It’s fresh, sweet, soft, floral..it’s tender (hence the name). It doesn’t last very well but I still love it and haven’t found anything that compares to it. :)"
+       ]
+    }
+  }
+]

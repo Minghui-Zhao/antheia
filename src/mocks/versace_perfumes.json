@@ -1,0 +1,28 @@
+[
+  {
+    "brand": {
+      "brandName": "Versace",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601770851/Antheia/brands/versace_k4ivsi.svg"
+    },
+    "name": "Bright Crystal",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601875473/Antheia/perfumes/versace/375x500.632_eg62xo.jpg",
+    "product": {
+      "price": "78/1.7 Fl Oz",
+      "accords": "floral, fresh, citrus, aquatic, woody",
+      "composition": "Top notes: pomegranate, yuzu iced accord; middle notes: magnolia, lotus flower, peony; base notes: vegetal amber, acajou, musk."     
+    },
+    "story": {   
+      "origin": "Italy",
+      "year": 2006,
+      "designer": "Alberto Morillas",
+      "inspiration": "A fruity, floral and musky scent inspired by a mixture of Donatella Versace's favorite floral fragrances."
+    },
+    "review": {
+      "rating": "3.63/5.0",
+      "comments": [
+        "This is a long time love for me. It’s a sexy scent that is extremely wearable and feminine. I haven’t smelled anything that mimics it’s eye rolling lovely aroma.",
+        "It's a beautiful scent for summer time. I am always enjoying of wearing it. It's very uplifting, sparkling, sweet and flowery."
+      ]
+    }
+  }
+]

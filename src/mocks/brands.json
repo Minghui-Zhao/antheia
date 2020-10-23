@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Chanel",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601771191/Antheia/brands/chanel-1_uyyv35.svg"
+  },
+  {
+    "name": "Guerlain",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601750360/Antheia/guerlain_b6x3tg.svg"
+  },
+  {
+    "name": "Lancome",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749126/Antheia/brands/lancome-3_wy8try.svg"
+  },
+  {
+    "name": "YSL",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749844/Antheia/brands/yves-saint-laurent_blwkj2.svg"
+  },
+  {
+    "name": "Dior",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601755333/Antheia/brands/christian-dior_pjznw1.svg"
+  },
+  {
+    "name": "MarcJacobs",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601780622/Antheia/brands/Marc-jacobs_vmpu7g.jpg"
+  },
+  {
+    "name": "Versace",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601770851/Antheia/brands/versace_k4ivsi.svg"
+  },
+  {
+    "name": "Chloe",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/c_scale,w_2500/v1601780273/Antheia/brands/Chloe_hcewtt.jpg"
+  },
+  {
+    "name": "Givenchy",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601768868/Antheia/brands/givenchy-3_w7c08o.svg"
+  },
+  {
+    "name": "Hermes",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601750452/Antheia/brands/hermes_c4h6tp.svg"
+  },
+  {
+    "name": "D&G",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601783119/Antheia/brands/dolce-gabbana_p3p6xx.svg"
+  },
+  {
+    "name": "Prada",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749358/Antheia/prada_wlduw8.svg"
+  }
+]

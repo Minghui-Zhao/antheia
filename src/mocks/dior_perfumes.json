@@ -1,0 +1,106 @@
+[
+  {
+    "brand": {
+      "brandName": "Dior",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601755333/Antheia/brands/christian-dior_pjznw1.svg"
+    },
+    "name": "Miss Dior",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601869679/Antheia/perfumes/Dior/375x500.53144_u2eekd.jpg",
+    "product": {
+      "price": "72/1.7 Fl Oz",
+      "accords": "citrus, floral, rose, patchouli, woody",
+      "composition": "Top notes: blood orange, mandarin; middle notes: lily of the valley, base notes: patchouli."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2019,
+      "designer": "Francois Demachy",
+      "inspiration": "A mad waltz danced around Grasse rose and a veil of lily of the valley as light as a tulle petticoat. A radiant Miss Dior who throws herself headlong into a never-ending whirlwind of life and love."
+    },
+    "review": {
+      "rating": "3.66/5.0",
+      "comments": [
+        "Reminds me of mix between blooming bouquet, Chanel eau tendre and a touch of the EDP!!! Love it, so feminine and soft, yet sweet.",
+        "Its opening is a burst of citrus and then I get a very lovely rose scent that seems to blend with the citrus. The patchouli is very nice and smooth in the base."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dior",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601755333/Antheia/brands/christian-dior_pjznw1.svg"
+    },
+    "name": "Poison",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601870943/Antheia/perfumes/Dior/375x500.218_wzvurt.jpg",
+    "product": {
+      "price": "91/3.4 Fl Oz",
+      "accords": "balsamic, sweet, woody, white floral, fruity, warm spicy",
+      "composition": "Top notes: coriander, spice; middle notes: tuberose; base notes: opoponax."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 1985,
+      "designer": "Edouard Flechier",
+      "inspiration": "Forbidden fruit from the house of Dior, Poison is the revolutionary fragrance that became a legend since it has been launched. An unrivalled alchemy; spicy, fruity, woody fragrance of enigmatic profoundness that mesmerizes the senses…forever."
+    },
+    "review": {
+      "rating": "3.58/5.0",
+      "comments": [
+        "My favorite perfume EVER. If you don't like this fragrance, I don't want to know you. It's that good. I've literally hunted a woman down in a crowd to locate the woman who was sophisticated enough to wear this unique gem of a fragrance. I wanted to know her.",
+        "To me it’s a very mysterious, sexy, and mature scent. There is a character called The Warden from the children’s novel, Holes. She’s vicious, and is known to put rattlesnake venom in her nail polish. I imagine her wearing Dior Poison :)"
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dior",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601755333/Antheia/brands/christian-dior_pjznw1.svg"
+    },
+    "name": "J'adore",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601870144/Antheia/perfumes/Dior/375x500.51818_dhjlqr.jpg",
+    "product": {
+      "price": "105/1.7 Fl Oz",
+      "accords": "floral, fruity, white floral, sweet, aquatic",
+      "composition": "Top notes: ylang-ylang; middle notes: damascena rose; base notes: grasse jasmine."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 1999,
+      "designer": "Dior",
+      "inspiration": "The classic and ambitions of this fragrance reflects in the bottle shaped like Greek amphora. J’adore presents a new conception of Dior feminity, a scent so new and so in line with Dior style at the same time."
+    },
+    "review": {
+      "rating": "3.64/5.0",
+      "comments": [
+        "This is a beautiful floral fragrance that lasts about 4 hours on my skin. There is very little sweetness to my nose. I picture a beautiful bride walking down the aisle, in a lush garden ceremony. For me, it's graceful and timeless.",
+        "An every day fragrance that is hard to 'dislike', which comes with the backdrop that it is not a special nor complicated at all. A hint of fruity sweetness, but still rather elegant and fresh."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Dior",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601755333/Antheia/brands/christian-dior_pjznw1.svg"
+    },
+    "name": "Joy by Dior Intense",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601871457/Antheia/perfumes/Dior/375x500.56214_ae6pia.jpg",
+    "product": {
+      "price": "105/1.7 Fl Oz",
+      "accords": "white floral, balsamic, powdery, floral, aromatic, citrus",
+      "composition": "Top notes: citrus, neroli; middle notes: centifolia rose, jasmine grandiflorum from Grasse; base notes: sandalwood, patchouli, Madagascar vanilla."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2018,
+      "designer": "Dior",
+      "inspiration": "An explosive eau de parfum that is a fragrance of floral fireworks presented in a bottle finely crafted like a jewel."
+    },
+    "review": {
+      "rating": "3.64/5.0",
+      "comments": [
+        "Typical MUSKY-JASMINEY-VANILLA-WITH-HINTS-OF-ROSES scent. Clean, opulent everyday scent that is blissful and largely relaxing. ",
+        "Smoother, warmer, deeper, richer, less citrusy and definitely an “oriental” version of the original. Lovely and sophisticated dry down for sure, with a classy Dior's trait."
+      ]
+    }
+  }
+]

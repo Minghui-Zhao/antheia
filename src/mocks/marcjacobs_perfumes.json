@@ -1,0 +1,106 @@
+[
+  {
+    "brand": {
+      "brandName": "MarcJacobs",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601780622/Antheia/brands/Marc-jacobs_vmpu7g.jpg"
+    },
+    "name": "Daisy Dream",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601830919/Antheia/perfumes/marcjacobs/375x500.25289_be7jbp.jpg",
+    "product": {
+      "price": "86/1.7 Fl Oz",
+      "accords": "fruity, floral, fresh, sweet, tropical",
+      "composition": "The composition tends to create a “blue effect” from blackberries, pear, blue wisteria, jasmine and coconut water."     
+    },
+    "story": {   
+      "origin": "USA",
+      "year": 2014,
+      "designer": "Alberto Morillas",
+      "inspiration": "Light and airy, Daisy Dream captivates with its delectably fruity and floral personality."
+    },
+    "review": {
+      "rating": "3.69/5.0",
+      "comments": [
+        "One of my favourite scents, I lived it since I smelled it for the first time. It's feminine and makes me feel so light. Love it, but it has a poor longitivity",
+        "She's beautiful. Feminine, fruity, floral... Ahhhh absolutely delicious, classy, its a scent so suitable as a signature scent, and it actually was my signature scent for a while! "
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MarcJacobs",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601780622/Antheia/brands/Marc-jacobs_vmpu7g.jpg"
+    },
+    "name": "Daisy Eau So Fresh",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601829408/Antheia/perfumes/marcjacobs/375x500.10858_vgdunb.jpg",
+    "product": {
+      "price": "100/2.5 Fl Oz",
+      "accords": "fruity, floral, sweet, green, powdery",
+      "composition": "Top notes: grapefruit, green notes, raspberry and pear; middle notes: jasmine, rose, violet, litchi and apple blossom; base notes: musk, virginia cedar and plum."     
+    },
+    "story": {   
+      "origin": "USA",
+      "year": 2011,
+      "designer": "Alberto Morillas",
+      "inspiration": "Like the woman who wears it, Daisy Eau So Fresh inspires boldness and femininity, sweetness and unpredictability. "
+    },
+    "review": {
+      "rating": "4.0/5.0",
+      "comments": [
+        "Very fresh as it name says. Easy to wear, suitable for everyday wear. A nice one for work as its very light. You wont be making any statements but you will smell clean, fresh and nice.",
+        "I tried today both daisy regular and this. What suprised me most, that eau so fresh had waaay better longevity than usual daisy! That lasted about 6 hrs on wrist. Very pretty fresh nice both casual and special occasion but need to spray a lot for evening."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MarcJacobs",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601780622/Antheia/brands/Marc-jacobs_vmpu7g.jpg"
+    },
+    "name": "Daisy Twinkle",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601831953/Antheia/perfumes/marcjacobs/375x500.47657_l3tfa8.jpg",
+    "product": {
+      "price": "90/1.7 Fl Oz",
+      "accords": "powdery, ozonic, aquatic, floral, white floral",
+      "composition": "Top notes: wild berries; middle notes: violet flower; base notes: white woods."     
+    },
+    "story": {   
+      "origin": "USA",
+      "year": 2014,
+      "designer": "Alberto Morillas",
+      "inspiration": "Inspired by a shimmering oasis where the sun dazzles and water glistens,  the fragrances transport Daisy girls to an endless summer sanctuary filled with endless blue skies, sparkling water and warm days."
+    },
+    "review": {
+      "rating": "3.73/5.0",
+      "comments": [
+        "What a lovely summer scent! It’s cool, comforting, soft and beautiful. I wish it could have more longlivety. Love it.",
+        "Very similar to the original Daisy in my opinion, but with more emphasis on the violet note. If you love violet just like I do but want even more of it than in the original Daisy, this is right up your alley."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "MarcJacobs",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601780622/Antheia/brands/Marc-jacobs_vmpu7g.jpg"
+    },
+    "name": "Perfect",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601832787/Antheia/perfumes/marcjacobs/375x500.62021_htcvpj.jpg",
+    "product": {
+      "price": "96/1.7 Fl Oz",
+      "accords": "green, woody, fruity, aromatic, almond, yellow floral",
+      "composition": "Top notes: rhubarb and daffodil; middle note: almond milk; base notes: cashmeran and cedar."     
+    },
+    "story": {   
+      "origin": "USA",
+      "year": 2020,
+      "designer": "Domitille Michalon Bertier",
+      "inspiration": "The perfume was inspired by Marc Jacobs’s mantra: 'I am perfect as I am,' which is symbolized by a tattoo of the word 'perfect' on his wrist. Like his tattoo, Perfect is about embracing and expressing one’s true self."
+    },
+    "review": {
+      "rating": "3.53/5.0",
+      "comments": [
+        "Opens like a fresh, sweet daisy - youthful and green. Midnotes are like sugary water - a sheer sweetness then it dries down to a patchouli water with just a hint of sweetness. I really like it.",
+        "It's quite good. MJ took base from Daisy (or other flankers) and made it way less synthetic and more vibrant and fruity. It's a perfect summer perfume and is upgraded version of Escada's frags. Not cloying, great performance."
+      ]
+    }
+  }
+]

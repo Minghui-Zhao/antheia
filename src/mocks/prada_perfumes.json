@@ -1,0 +1,28 @@
+[
+  {
+    "brand": {
+      "brandName": "Prada",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749358/Antheia/prada_wlduw8.svg"
+    },
+    "name": "Candy Night Eau de Parfum",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601874996/Antheia/perfumes/prada/375x500.53989_enalmn.jpg",
+    "product": {
+      "price": "107/2.7 Fl Oz",
+      "accords": "cacao, warm spicy, sweet, caramel, vanilla",
+      "composition": "Top notes: orange; middle notes: chocolate, caramel; base notes: white musks."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2019,
+      "designer": "Prada",
+      "inspiration": "Prada Candy Night captures the unbound freedom found after dark, introducing a world rich with possibilities."
+    },
+    "review": {
+      "rating": "3.7/5.0",
+      "comments": [
+        "Wow, I got a rollerball in a swap...what a wonderful treat! Such a soft, rich cocoa smell, but creamy smooth. Surprisingly great for hot weather, and there's a touch of warmth/spice.",
+        "On me, it's soft and subtle, with a hint of smokiness but it isn't overpowering and lasts a long time. A beautiful vanilla scent with hints of chocolate and caramel."
+      ]
+    }
+  }
+]

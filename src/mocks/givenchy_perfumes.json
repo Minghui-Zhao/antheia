@@ -1,0 +1,28 @@
+[
+  {
+    "brand": {
+      "brandName": "Givenchy",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601768868/Antheia/brands/givenchy-3_w7c08o.svg"
+    },
+    "name": "L'Interdit Eau de Parfum",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601872766/Antheia/perfumes/givenchy/375x500.51488_aohmlz.jpg",
+    "product": {
+      "price": "93/1.7 Fl Oz",
+      "accords": "white floral, tuberose, woody, sweet, patchouli, vanilla",
+      "composition": "Top notes: orange blossom; middle notes: jasmine, tuberose; base notes: vetiver, patchouli."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2018,
+      "designer": "Dominique Ropion, Anne Flipo, Fanny Bal",
+      "inspiration": "Forbid yourself nothing. Allow no rules. An invitation to defy convention and embrace your individuality. As long as you have the courage to be yourself, nothing is impossible."
+    },
+    "review": {
+      "rating": "3.86/5.0",
+      "comments": [
+        "This is the only fragrance I get complimented on everytime I use it. I’m so in love with it. Very elegant classy and feminine. It last all day and night.",
+        "Sweet, fresh, unique, modern. Patchouli doesn’t smell like angel of mugler. Since I hate most patchouli this one is great, tuberose overpowers it and it’s so balanced. I would say a perfect blind buy."
+      ]
+    }
+  }
+]

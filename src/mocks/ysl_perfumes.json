@@ -1,0 +1,28 @@
+[
+  {
+    "brand": {
+      "brandName": "YSL",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749844/Antheia/brands/yves-saint-laurent_blwkj2.svg"
+    },
+    "name": "Mon Paris",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601875963/Antheia/perfumes/ysl/375x500.38914_mckl5a.jpg",
+    "product": {
+      "price": "85/1.6 Fl Oz",
+      "accords": "fruity, sweet, fresh, white floral, woody",
+      "composition": "Top notes: red berries; middle notes: white datura flower; base notes: white musk."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2016,
+      "designer": "Olivier Cresp, Harry Fremont, Dora Baghriche",
+      "inspiration": "A fruity, floral women's fragrance that sparkles with the passion and romance of Paris."
+    },
+    "review": {
+      "rating": "3.52/5.0",
+      "comments": [
+        "Dry strawberry/raspberry sugar. Very girly. Very sweet. Very pleasant. The patchouli and flowers give it depth and freshness. The patchouli is very well balanced and muted.",
+        "One spritz on each wrist, on each inner elbow and on the base of my throat is all it takes for my hair, my clothes, my bedsheets and the air of my room to smell of it for days."
+      ]
+    }
+  }
+]

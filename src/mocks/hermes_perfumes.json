@@ -1,0 +1,54 @@
+[
+  {
+    "brand": {
+      "brandName": "Hermes",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601750452/Antheia/brands/hermes_c4h6tp.svg"
+    },
+    "name": "24 Faubourg",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601873850/Antheia/perfumes/hermes/375x500.27_rijvtz.jpg",
+    "product": {
+      "price": "143/1.6 Fl Oz",
+      "accords": "white floral, floral, woody, balsamic, sweet, citrus",
+      "composition": "A sparkle of white flowers in the top notes, the radiance of a floral heart enveloped in irises, woods and mystery, while vanilla and ambergris set the tone for the sillage."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 1995,
+      "designer": "Maurice Roucel",
+      "inspiration": "Faubourg is an invitation to travel, with the sun as its destination."
+    },
+    "review": {
+      "rating": "3.82/5.0",
+      "comments": [
+        "24 Faubourg is dazzling. It’s a glittery, crystal chandelier of a perfume, and I wear it when I want to feel like A Lady. ",
+        "Wearing 24 this evening, warm and rainy and it is absolutely STUNNING. I’m getting more of a sweet amber tonight supporting that sunny orange blossom and it’s so full and lusciously delicious!"
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Hermes",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601750452/Antheia/brands/hermes_c4h6tp.svg"
+    },
+    "name": "Elixir des Merveilles",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601873856/Antheia/perfumes/hermes/375x500.3168_ulqitc.jpg",
+    "product": {
+      "price": "128/1.6 Fl Oz",
+      "accords": "balsamic, woody, citrus, sweet, caramel",
+      "composition": "The fragrance features peru balsam, vanilla sugar, amber, sandalwood, tonka bean, patchouli, siam resin, caramel, oak, incense, orange peel and cedar. "     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2006,
+      "designer": "Jean Claude Ellena",
+      "inspiration": "An eau de parfum that leads you by the nose on a dream cloud from surprise to magic and from magic to enchantment."
+    },
+    "review": {
+      "rating": "4.01/5.0",
+      "comments": [
+        "I enjoy every Drops from this fragrance Let's start with Lemon tea mixed with red sugar and a orange blossom in the woods with green flowers. is a good fragrance very modern Beautiful same time have a good Signature love it.",
+        "Let your senses guide you through a forest of orange trees on a stary, festive, warm night. Let yourself be enchanted by the incense surrounding you. Let yourself be invited to caramel spicy treats and champagne while being exposed to rich amber and vanilla."
+      ]
+    }
+  }
+]

@@ -1,0 +1,80 @@
+[
+  {
+    "brand": {
+      "brandName": "Chloe",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/c_scale,w_2500/v1601780273/Antheia/brands/Chloe_hcewtt.jpg"
+    },
+    "name": "L'Eau",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601833795/Antheia/perfumes/chloe/375x500.56051_eqfy6s.jpg",
+    "product": {
+      "price": "95/1.7 Fl Oz",
+      "accords": "citrus, woody, rose, floral, earthy",
+      "composition": "Top notes: rose, grapefruit and litchi; middle notes: magnolia and damask rose; base notes: oakmoss, cedar, amber and musk. "     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2019,
+      "designer": "Chloé",
+      "inspiration": "Luminous and effortlessly feminine, L'Eau is the essence of a woman at one with the infinite grace of nature.An unforgettable blush coral hue, L'Eau is a bright burst of rose accented by the fresh and iridescent magnetism of magnolia. The bottle blends Chloé's iconic glass groove pleats with a grosgrain ribbon made to match the elegant scent."
+    },
+    "review": {
+      "rating": "3.98/5.0",
+      "comments": [
+        "This is soooo lovely in the summer. Light, sweet, fresh rose with a hint of lemon and a bit of dryness from the vetiver.",
+        "So much mention about this fragrance from women around me. Like a fresh scent for day time. Which is something that I love. So interesting.."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Chloe",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/c_scale,w_2500/v1601780273/Antheia/brands/Chloe_hcewtt.jpg"
+    },
+    "name": "Nomade",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601834370/Antheia/perfumes/chloe/375x500.48434_efhs5y.jpg",
+    "product": {
+      "price": "105/1.7 Fl Oz",
+      "accords": "woody, fruity, citrus, floral, earthy",
+      "composition": " Top notes: freesia; middle notes: mirabelle; base notes: oakmoss."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2018,
+      "designer": "Quentin Bisch",
+      "inspiration": "It was created from inspiration by freedom, surprises, desire for open spaces and empowerment. It captures the essence of a free-spirited and confident woman and her experiences and encounters."
+    },
+    "review": {
+      "rating": "3.7/5.0",
+      "comments": [
+        "First I found it a bit boring and left it in a drawer for a month. Then I found it on a rainy spring day, and this really bloomed. Suddenly I smelled rose and the fruity, with something deep playing up against the fresh floral.",
+        "If I dare the word, it is more than unisex, it is transgender. Imagine the golden, tender smell of a typical feminine mirabelle plum, slightly acidulous, mixed with the fresh and pungent trail of male shaving foam."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "Chloe",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/c_scale,w_2500/v1601780273/Antheia/brands/Chloe_hcewtt.jpg"
+    },
+    "name": "Love Story",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601835181/Antheia/perfumes/chloe/375x500.26227_nn8obg.jpg",
+    "product": {
+      "price": "105/1.7 Fl Oz",
+      "accords": "white floral, citrus, musky, woody, fresh spicy",
+      "composition": "Top notes: petitgrain, neroli, orange blossom; middle notes: jasmine, stephanotis, physalis fruit; base notes: cedarwood."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2014,
+      "designer": "Anne Flipo",
+      "inspiration": "It's a floral, fresh and sexy fragrance inspired by the modern story of seduction. The flacon was inspired by a lock, yet conveys Chloé's unique feminine touches. Locks, seen on the famous Pont des Arts love bridge in Paris, have become an international symbol of love."
+    },
+    "review": {
+      "rating": "3.68/5.0",
+      "comments": [
+        "A beautiful scent that can stand on its own even if it is compared to other perfumes. It’s actually an underdog because it’s floral, fresh and nice for the summer. A good perfume for women in their 20’s.",
+        "Very sweet and very flowery, perfect for daily use, for school, office, etc. It's not like super long lasting, but it definitely lasts longer than the usual perfumes. I loved it from the second I smelled a sample."
+      ]
+    }
+  }
+]

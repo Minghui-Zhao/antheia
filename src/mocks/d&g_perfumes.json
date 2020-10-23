@@ -1,0 +1,80 @@
+[
+  {
+    "brand": {
+      "brandName": "D&G",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601783119/Antheia/brands/dolce-gabbana_p3p6xx.svg"
+    },
+    "name": "Dolce",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601868162/Antheia/perfumes/DG/375x500.22955_e93tnz.jpg",
+    "product": {
+      "price": "96/1.6 Fl Oz",
+      "accords": "floral, musky, fresh, powdery, aquatic",
+      "composition": "Top notes: neroli leaves, papaya flower; middle notes: white amaryllis, white daffodil, white water lily; base notes: cashmere, musk, sandalwood."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2014,
+      "designer": "Dolce & Gabbana",
+      "inspiration": "Dolce represents an emotional and sensual journey through Sicily, which is the origin and inspiration of the fashion duo."
+    },
+    "review": {
+      "rating": "3.40/5.0",
+      "comments": [
+        "It's a soft garden-smelling (green) scent with some floral &amp; watery notes. In summer, it's absolutely stunning with a moderate sillage &amp; longevity. It's very nice! I'd recommend it for the people who like light floral scents &amp; as a spring scent",
+        "What a bright blessing. It smells like bouquet of early daffodils to me with green stems and water. For the summer days it's perfect and cuts the heat with aromatic breeze. That could be really nice perfume for a bride."
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "D&G",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601783119/Antheia/brands/dolce-gabbana_p3p6xx.svg"
+    },
+    "name": "The One",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601868706/Antheia/perfumes/DG/375x500.698_pfotdd.jpg",
+    "product": {
+      "price": "96/1.6 Fl Oz",
+      "accords": "fruity, vanilla, balsamic, white floral, powdery, sweet",
+      "composition": "Top notes: bergamot, mandarin, lychee, peach; middle notes: Madonna lily; base notes: vanilla, amber, musk."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2006,
+      "designer": "Christine Nagel",
+      "inspiration": "The one is a fragrance for an exceptional woman who instantly draws attention, not only with her looks, but also with her manners, pose and inner world."
+    },
+    "review": {
+      "rating": "3.67/5.0",
+      "comments": [
+        "I really get the intense vanilla, then the jasmin, the lily and musk in this one. This is just a fantastic one this one.",
+        "Fruity bomb with ambery base. Warm and inviting but I find it a b too much in warm weather or with sunshine. "
+      ]
+    }
+  },
+  {
+    "brand": {
+      "brandName": "D&G",
+      "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601783119/Antheia/brands/dolce-gabbana_p3p6xx.svg"
+    },
+    "name": "Light Blue Eau Intense",
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601869110/Antheia/perfumes/DG/375x500.44034_ryoe4t.jpg",
+    "product": {
+      "price": "110/3.4 Fl Oz",
+      "accords": "citrus, musky, fresh, fruity, aromatic",
+      "composition": "Top notes: lemon, Granny Smith apple; middle notes: marigold, jasmine; base notes: amber wood, musk."     
+    },
+    "story": {   
+      "origin": "France",
+      "year": 2017,
+      "designer": "Olivier Cresp",
+      "inspiration": "Eau Intense is the new intensity of the iconic Light Blue by Dolce&Gabbana. The deep freshness of lemon and Granny Smith apple is combined with woody and musky notes to create a crisp yet warm feeling."
+    },
+    "review": {
+      "rating": "4.12/5.0",
+      "comments": [
+        "The ultimate summer fragrance for women. Top notes are very citrusy then the drydown is musky and fresh. Feels like a summer vacation in Bali or Hawaii. Longevity lasts around 6-8 hours, very good for a freshy.",
+        "This is the ultimate summer fragrance; EVERY woman should have this in her collection! Sweet green apple, fresh citrus, and sensual musk to round it out. Very sexy, but in a clean and approachable way!"
+      ]
+    }
+  }
+]
