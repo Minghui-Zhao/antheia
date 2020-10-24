@@ -11,28 +11,30 @@ class NavigationBar extends Component {
 
   render() {
     return (
-      <nav className="navbar navbar-expand-md navbar-light navbar-bg">
-        <Link className="navbar-brand company-logo text-white" to="/">
-          Glogou
-        </Link>
-        <button
-          className="navbar-toggler"
-          onClick={() => this.setState({ show: !this.state.show })}
-        >
-          <span className="navbar-toggler-icon"></span>
-        </button>
+      <div className="bg-info">
+        <nav className="navbar navbar-expand-md navbar-light navbar-width px-0 py-2">
+          <Link className="navbar-brand company-logo text-white" to="/">
+            Glogou
+          </Link>
+          <button
+            className="navbar-toggler"
+            onClick={() => this.setState({ show: !this.state.show })}
+          >
+            <span className="navbar-toggler-icon"></span>
+          </button>
 
-        <div
-          className={
-            this.state.show
-              ? "collapse navbar-collapse show"
-              : "collapse navbar-collapse"
-          }
-        >
-          <SearchBar />
-          <NavLinks />
-        </div>
-      </nav>
+          <div
+            className={
+              this.state.show
+                ? "collapse navbar-collapse show"
+                : "collapse navbar-collapse"
+            }
+          >
+            <SearchBar />
+            <NavLinks />
+          </div>
+        </nav>
+      </div>
     );
   }
 }
