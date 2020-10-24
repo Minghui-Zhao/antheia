@@ -42,7 +42,7 @@ class Homepage extends Component {
       selectedPerfumes.push(
         <div className="col-3 d-flex justify-content-center" key={perfumeName}>
           <div
-            className="border border-info px-4 py-5 rounded d-flex justify-content-center align-items-center"
+            className="border border-info pt-4 py-5 rounded d-flex justify-content-center align-items-center"
             style={{ width: "100%", height: 251 }}
           >{`Perfume ${perfumeName}`}</div>
         </div>
@@ -94,7 +94,7 @@ class Homepage extends Component {
 
         <div className="my-5" />
         <div className="h3 mt-4 mb-3 text-dark">Suggested Brands</div>
-        <div className="border p-4 rounded shadow">
+        <div className="border py-0 px-4 rounded shadow">
           <div className="row">
             {BRANDS.map((brand) => {
               const name = brand.name;
