@@ -21,7 +21,7 @@ class App extends Component {
           </Switch>
         </HashRouter>
         <div className="card-footer text-muted mt-4 text-center">
-          Atheia 2020
+          © Glogou - Atheia 2020
         </div>
       </div>
     );

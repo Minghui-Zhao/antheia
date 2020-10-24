@@ -3,10 +3,31 @@ import { connect } from "react-redux";
 import {
   addPerfumeRedux,
   removePerfumeRedux,
+  updateSearchPerfumesRedux,
 } from "../../../store/perfume/perfume-dispatcher";
 
 class SearchPage extends Component {
   render() {
+    if (this.props.searchPerfumes.length === 0) {
+      return (
+        <div className="page d-flex flex-column align-items-center justify-content-center mt-4 mb-5">
+          <div className="h3 m-0">Sorry, we don't have any match result...</div>
+          <div className="text-center mt-4">
+            <button
+              className="btn btn-info"
+              type="button"
+              onClick={(e) => {
+                e.preventDefault();
+                this.props.updateSearchPerfumesOnRedux("");
+                this.props.history.push("/");
+              }}
+            >
+              Back to home
+            </button>
+          </div>
+        </div>
+      );
+    }
     return (
       <div className="page">
         <div className="my-5" />
@@ -86,6 +107,8 @@ const mapDispatchToProps = (dispatch) => {
     addPerfumeToRedux: (perfume) => dispatch(addPerfumeRedux(perfume)),
     removePerfumeFromRedux: (perfumeName) =>
       dispatch(removePerfumeRedux(perfumeName)),
+    updateSearchPerfumesOnRedux: (keyword) =>
+      dispatch(updateSearchPerfumesRedux(keyword)),
   };
 };
 
