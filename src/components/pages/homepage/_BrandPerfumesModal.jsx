@@ -65,6 +65,7 @@ class BrandPerfumesModal extends Component {
                 className="close"
                 onClick={() => {
                   this.props.close();
+                  this.props.hidePerfumeAlertFromRedux();
                 }}
               >
                 <span>&times;</span>
@@ -86,13 +87,19 @@ class BrandPerfumesModal extends Component {
             <div className="modal-footer">
               <button
                 className="btn btn-outline-info"
-                onClick={() => this.props.close()}
+                onClick={() => {
+                  this.props.close();
+                  this.props.hidePerfumeAlertFromRedux();
+                }}
               >
                 Close
               </button>
               <button
                 className="btn btn-info"
-                onClick={() => this.props.close()}
+                onClick={() => {
+                  this.props.close();
+                  this.props.hidePerfumeAlertFromRedux();
+                }}
               >
                 Save
               </button>
