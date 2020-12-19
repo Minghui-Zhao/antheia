@@ -5,7 +5,7 @@
   },
   {
     "name": "Guerlain",
-    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601750360/Antheia/guerlain_b6x3tg.svg"
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601750360/Antheia/brands/guerlain_b6x3tg.svg"
   },
   {
     "name": "Lancome",
@@ -45,6 +45,6 @@
   },
   {
     "name": "Prada",
-    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749358/Antheia/prada_wlduw8.svg"
+    "imgURL": "https://res.cloudinary.com/dreesizvy/image/upload/v1601749358/Antheia/brands/prada_wlduw8.svg"
   }
 ]
